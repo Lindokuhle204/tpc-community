@@ -1,6 +1,0 @@
-1. Use interface is a point in human computer interaction and communication in devices 
-- it is what you see and can interact with.
- 
-we have two types of interfaces :
-- graphical user interface
-- command line interface
