@@ -1,0 +1,181 @@
+istory
+    1  node -v
+    2  cd hello-world
+    3  mkdir hello-world
+    4  cd hello-world
+    5  touch index.js
+    6  console.log('hello-world');
+    7  git remote add origin https://github.com/Lindokuhle204/hello-world.git
+    8  git init
+    9  mkdir hello-world
+   10  cd hello-world
+   11  touch index.js
+   12  echo 'console.log("hello world,my name is Natasha")
+   13  echo 'console.log("hello world , my name is natasha");' >index.js
+   14  git init
+   15  git add .
+   16  git remote add origin https://github.com/Lindokuhle204/hello-world.git
+   17  git push -u origin master
+   18  https://github.com/Lindokuhle204/task-1-prac.git
+   19  https://github.com/londeka-z/task-1-prac.git
+   20  cd ..
+   21  https://github.com/londeka-z/task-1-prac.git
+   22  https://github.com/Lindokuhle204/task-1-prac.git
+   23  https://git clone.com/Lindokuhle204/task-1-prac.git
+   24  git clone https://github.com/Lindokuhle204/task-1-prac.git
+   25  mkdir deploy.sh
+   26  mkdir Tpc_Community
+   27  cd Tpc_Community
+   28  touch deploy.sh
+   29  touch style_guide.txt
+   30  mkdir Tpc_Community
+   31  cd .
+   32  rm -rf Tpc_Community
+   33  mkdir Tpc_Community
+   34  cd Tpc_Community
+   35  touch deploy.sh
+   36  pwd
+   37  mkdir automation_scripts/
+   38  cd automation_scripts/
+   39  touch deploy.sh
+   40  pwd
+   41  cd .
+   42  pwd
+   43  cd ..
+   44  mkdir documentation
+   45  pwd
+   46  mkdir documentation
+   47  cd
+   48  pwd
+   49  mkdir house
+   50  cd house
+   51  cd ..
+   52  ls
+   53  cd house
+   54  mkdir kitchen
+   55  mkdir bedroom
+   56  ls
+   57  cd bedroom
+   58  ls
+   59  nano shell.sh
+   60  code .
+   61  rm -rf Tpc_Community
+   62  mkdir Tpc_Community
+   63  cd Tpc_Community
+   64  pwd
+   65  mkdir automation_scripts
+   66  cd automation_scripts
+   67  pwd
+   68  cd ..
+   69  mkdir documentation/
+   70  cd documentation
+   71  touch style_guide.txt
+   72  pwd style_guide.txt
+   73  git init
+   74  cd ..
+   75  git init
+   76  git add
+   77  git add .
+   78  git add https://github.com/Lindokuhle204/Tpc_Community.git
+   79  git remote add origin https://github.com/Lindokuhle204/Tpc_Community.git
+   80  git add .
+   81  git init
+   82  git add .
+   83  code .
+   84  ls
+   85  cd automation_scripts/
+   86  mkdir Tpc_Comunity
+   87  cd Tpc_Community
+   88  pwd
+   89  mkdir automation_script/
+   90  mkdir Tpc_Community
+   91  cd Tpc_Community
+   92  mkdir automation_scripts
+   93  cd automation_scripts
+   94  touch deploy.sh
+   95  pwd
+   96  cd ..
+   97  mkdir documentation
+   98  pwd
+   99  cd documentation
+  100  touch style_guide.txt
+  101  pwd
+  102  cd style_guide.txt
+  103  git init
+  104  pwd
+  105  cd ..
+  106  git init
+  107  git remote add origin https://github.com/Lindokuhle204/Tpc_Community.git
+  108  git commit -m "1. Created a local repository 'Tpc_Community' 2. Created two repository 'automation_scripts/' and 'ducumentation/' inside the local repository Tpc_Community 3.inside the repository automation_scripts created a file 'deploy.sh' therefore inside the repository documentation created a file 'style_guide.txt"
+  109  git add .
+  110   git commit -m "1. Created a local repository 'Tpc_Community' 2. Created two repository 'automation_scripts/' and 'ducumentation/' inside the local repository Tpc_Community 3.inside the repository automation_scripts created a file 'deploy.sh' therefore inside the repository documentation created a file 'style_guide.txt"
+  111  On branch master
+  112  ls
+  113   git add .
+  114  cd documenbt]
+  115  cd documentation
+  116  git add .
+  117  git status
+  118  git commit -m "style_guit"
+  119  cd ..
+  120  git status
+  121  git add .
+  122  git status
+  123  git commit -m "Added aut and doc folders"
+  124   git commit -m "1. Created a local repository 'Tpc_Community' 2. Created two repository 'automation_scripts/' and 'ducumentation/' inside the local repository Tpc_Community 3.inside the repository automation_scripts created a file 'deploy.sh' therefore inside the repository documentation created a file 'style_guide.txt"
+  125  git clone https://github.com/Lindokuhle204/tpc-community.git
+  126  ls
+  127  cd automation_scripts
+  128  nano deploy.sh
+  129  nano deploy.sh
+  130  nano style_guide.txt
+  131  git push https://github.com/Lindokuhle204/tpc-community.git
+  132  git push origin master
+  133  history
+  134  ls
+  135  code .
+  136  cd ..
+  137  ls
+  138  cd tpc-community
+  139  ls
+  140  cd ..
+  141  ls
+  142  cd automation_script
+  143  cd automation_scripts
+  144  ls
+  145  cd ..
+  146  ls
+  147  git add .
+  148  git commit -m "testimg"
+  149  git push origin master
+  150  git checkout main
+  151  git checkout main
+  152  git merge main
+  153  git pull
+  154  git pull origin main --allow-unrelated-historiues
+  155  git pull origin main --allow-unrelated-histories
+  156  git remote b-v
+  157  git remote -v
+  158  git remote remove origin
+  159  git remote add origin https://github.com/Lindokuhle204/tpc-community.git
+  160  git status
+  161  git pull origin main --allow-unrelated-histories
+  162  git push origin main
+  163  git push origin master
+  164  ls
+  165  cd tpc-community
+  166  ls
+  167  git add .
+  168  git commit -m "i have fixed the files location"
+  169  git push
+  170  git init
+  171  git add .
+  172  git push origin main
+  173  ls
+  174  cd..
+  175  cd ..
+  176  ls
+  177  git add .
+  178  git commit -m "fixed"
+  179  git push origin master
+  180  history
